@@ -1,6 +1,6 @@
 import numpy as np
  
-# Description: Extended Kalman Filter example (two-wheeled mobile robot)
+# Description: Extended Kalman Filter 
  
 # Supress scientific notation when printing NumPy arrays
 np.set_printoptions(precision=3,suppress=True)
