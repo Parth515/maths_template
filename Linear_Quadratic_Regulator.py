@@ -1,7 +1,7 @@
 import numpy as np
  
 # Description: Linear Quadratic Regulator example 
-#   (two-wheeled differential drive robot car)
+
  
 ######################## DEFINE CONSTANTS #####################################
 # Supress scientific notation when printing NumPy arrays
